@@ -1,0 +1,9 @@
+Sick of hunting for bait and waiting another day for a new quest?
+Angler++ seeks to solve both of these problems.
+
+The Angler now owns a store selling fishing themed items, potions, rods and even bait!
+
+Content:
+[i/s00:3099] No Quest Wait Time.
+[i/s00:2529] Custom Angler Shop.
+[i/s00:458] More Coming Soon.
