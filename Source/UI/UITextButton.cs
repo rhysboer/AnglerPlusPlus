@@ -9,7 +9,7 @@ namespace AnglerPlusPlus {
 
 		private string text;
 		private Vector2 textSize;
-		private float textScale;
+		private float textScale = 1.0f;
 		private readonly float defaultScale = 0.9f;
 		private readonly float scaleFactor = 1.1f;
 
@@ -18,7 +18,6 @@ namespace AnglerPlusPlus {
 
 		public UITextButton(string text, OnButtonClick onButtonClick) : base() {
 			this.text = text;
-			this.textScale = 1.0f;
 
 			this.textSize = Main.fontMouseText.MeasureString(text);
 			this.Width.Set(textSize.X, 0.0f);

@@ -21,9 +21,9 @@ namespace AnglerPlusPlus {
 			AddItem(ref shop, ref index, ItemID.JourneymanBait, 0, 0, 1);
 			AddItem(ref shop, ref index, ItemID.MasterBait, 0, 50, 3);
 			AddItem(ref shop, ref index, ItemID.MonarchButterfly, 0, 10);
-			AddItem(ref shop, ref index, ItemID.FishingPotion, 0, 55);
-			AddItem(ref shop, ref index, ItemID.CratePotion, 0, 55);
-			AddItem(ref shop, ref index, ItemID.SonarPotion, 0, 55);
+			AddItem(ref shop, ref index, ItemID.FishingPotion, 0, 65);
+			AddItem(ref shop, ref index, ItemID.CratePotion, 0, 65);
+			AddItem(ref shop, ref index, ItemID.SonarPotion, 0, 65);
 		}
 
 		private void AddItem(ref Chest shop, ref int index, int itemID, uint copper = 0, uint silver = 0, uint gold = 0, uint plat = 0) {

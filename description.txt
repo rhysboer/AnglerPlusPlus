@@ -9,5 +9,8 @@ Content:
 [i/s00:3095] Quests Completed Tally.
 [i/s00:458] More Coming Soon.
 
+v0.1.1
+Adjust Potion Prices
+
 v0.1.0
 Release
