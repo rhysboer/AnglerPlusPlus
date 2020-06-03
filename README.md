@@ -3,6 +3,8 @@ A terraria mod I made that adds some features to the Angler NPC in Terraria.
 It can be downloaded on the tModloader browser.
 
 Content:
-Custom Fish Themed Shop.
-Quest Completed Tally.
-No Quest Delay.
+Custom Fish Themed Shop.  
+Quest Completed Tally.  
+No Quest Delay.  
+
+![Angler Chat](/images/angler.png)
